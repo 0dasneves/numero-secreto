@@ -1,6 +1,6 @@
 //var numJaSorteados = [1,2,3,4,5,6,7,8,9,10]
 let numJaSorteados = [];
-let numLimite = 10;
+let numLimite = 100;
 let numSecreto = numAleatorio();
 let tentavias = 1;
 
